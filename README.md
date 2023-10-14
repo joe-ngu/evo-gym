@@ -3,7 +3,7 @@
 A landing page for a fitness community, showcasing a gym for weight training, playing sports, and taking fitness classes. 
 Check out the live website at [evo-gym-6bz.pages.dev/](https://evo-gym-6bz.pages.dev/)
 
-![Evo-Gym screenshot](/evogym.jpg)
+![Evo-Gym screenshot](/evogym.png)
 
 ## Technologies
 
